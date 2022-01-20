@@ -1,0 +1,14 @@
+C:\workspace\app-cadastro-C-.NET\appCadastro\bin\Debug\netcoreapp3.1\appCadastro.exe
+C:\workspace\app-cadastro-C-.NET\appCadastro\bin\Debug\netcoreapp3.1\appCadastro.deps.json
+C:\workspace\app-cadastro-C-.NET\appCadastro\bin\Debug\netcoreapp3.1\appCadastro.runtimeconfig.json
+C:\workspace\app-cadastro-C-.NET\appCadastro\bin\Debug\netcoreapp3.1\appCadastro.runtimeconfig.dev.json
+C:\workspace\app-cadastro-C-.NET\appCadastro\bin\Debug\netcoreapp3.1\appCadastro.dll
+C:\workspace\app-cadastro-C-.NET\appCadastro\bin\Debug\netcoreapp3.1\appCadastro.pdb
+C:\workspace\app-cadastro-C-.NET\appCadastro\obj\Debug\netcoreapp3.1\appCadastro.csproj.AssemblyReference.cache
+C:\workspace\app-cadastro-C-.NET\appCadastro\obj\Debug\netcoreapp3.1\appCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\app-cadastro-C-.NET\appCadastro\obj\Debug\netcoreapp3.1\appCadastro.AssemblyInfoInputs.cache
+C:\workspace\app-cadastro-C-.NET\appCadastro\obj\Debug\netcoreapp3.1\appCadastro.AssemblyInfo.cs
+C:\workspace\app-cadastro-C-.NET\appCadastro\obj\Debug\netcoreapp3.1\appCadastro.csproj.CoreCompileInputs.cache
+C:\workspace\app-cadastro-C-.NET\appCadastro\obj\Debug\netcoreapp3.1\appCadastro.dll
+C:\workspace\app-cadastro-C-.NET\appCadastro\obj\Debug\netcoreapp3.1\appCadastro.pdb
+C:\workspace\app-cadastro-C-.NET\appCadastro\obj\Debug\netcoreapp3.1\appCadastro.genruntimeconfig.cache
